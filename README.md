@@ -14,6 +14,7 @@
 
 - 🖇 LinkedIn: [Hong Hong](https://www.linkedin.com/in/hong-hong-7b283321b/)
 - 📧 Email:[honghong2023@u.northwestern.edu](mailto:honghong2023@u.northwestern.edu)
+- 🗺 Portfolio: TBD
 - 🌱 Graduated from Northwestern University
 - 💼 Open to work
 - 💬 Ask me about anything, I am happy to help!

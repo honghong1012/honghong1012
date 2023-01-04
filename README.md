@@ -1,11 +1,10 @@
-<img align="right" src="images/2.gif" alt="Coder GIF" width="300" height="250">
 
 # Hey folks! <img src="images/wave.gif" width="30px" height="30px" />
 ## I'm Hong Hong
+<img align="right" src="images/2.gif" alt="Coder GIF" width="300" height="250">
 <a href="https://www.instagram.com/scarlett_hong1012/">
   <img align="left" alt="Scarlett Hong's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
-
 <a href="https://github.com/honghong1012/honghong1012.github.io/blob/master/images/qrcode.jpeg?raw=true">
   <img align="left" alt="Hong's WeChat" width="22px" src="https://github.com/CoderMikeHe/WeChat_Resource/blob/master/snapshots/logo.png?raw=true" />
 </a>

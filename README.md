@@ -1,7 +1,8 @@
 
-# Hey folks! <img src="images/wave.gif" width="30px" height="30px" />
-## I'm Hong Hong
-<img align="right" src="images/2.gif" alt="Coder GIF" width="300" height="250">
+# Hey folks! <img src="images/wave.gif" width="30px" height="30px" /> I'm Hong Hong
+
+<img align="right" src="images/2.gif" alt="Coder GIF" width="500" height="350">
+
 <a href="https://www.instagram.com/scarlett_hong1012/">
   <img align="left" alt="Scarlett Hong's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
@@ -9,9 +10,10 @@
   <img align="left" alt="Hong's WeChat" width="22px" src="https://github.com/CoderMikeHe/WeChat_Resource/blob/master/snapshots/logo.png?raw=true" />
 </a>
 <br/>
+<br/>
 
 - 🖇 LinkedIn: [Hong Hong](https://www.linkedin.com/in/hong-hong-7b283321b/)
-- 📧 Email:[honghong@u.northwestern.edu](mailto:honghong2023@u.northwestern.edu)
+- 📧 Email:[honghong2023@u.northwestern.edu](mailto:honghong2023@u.northwestern.edu)
 - 🌱 Graduated from Northwestern University
 - 💼 Open to work
 - 💬 Ask me about anything, I am happy to help!
@@ -30,7 +32,14 @@
 ![](https://img.shields.io/badge/IDE-IDEA-informational?style=flat&logo=intellijidea&color=D23369)
 ![](https://img.shields.io/badge/IDE-PyCharm-informational?style=flat&logo=pycharm&color=D23369)
 
+## 💜 My Passions
+- 🖥 Front End & Full Stack Development
+- 👩🏻‍💻 Python, JavaScript, React, Node.js...
+- 🏃🏻‍♀️ Sports & 🏝 Nature
+
 ## A little more about me...
 Apart from coding, I also maintain a simple blog - you can find some snippets at my github.io.
 
 Besides, I realllllly love workout in gym and baking, which bring me enough dopamine and make my day! 
+
+Trying to build my projects and accumulate some experience in developing! Having fun on this way.

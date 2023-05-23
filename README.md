@@ -12,11 +12,11 @@
 <br/>
 <br/>
 
-- 🖇 LinkedIn: [Hong Hong](https://www.linkedin.com/in/hong-hong-7b283321b/)
-- 📧 Email:[honghong2023@u.northwestern.edu](mailto:honghong2023@u.northwestern.edu)
+- 🖇 LinkedIn: [Hong Hong](https://www.linkedin.com/in/scarlett-h-7b283321b/)
+- 📧 Email:[sc.hong1999@gmail.com](mailto:sc.hong1999@gmail.com)
 - 🗺 Portfolio: [Scarlett Hong's Portfolio](https://www.scarletthong.top/)
 - 🌱 Graduated from Northwestern University
-- 💼 Open to work
+- 💼 Incoming software engineer at DocuSign!
 - 💬 Ask me about anything, I am happy to help!
 
 ## 🔧Technologies & Tools

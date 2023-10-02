@@ -3,7 +3,7 @@
 
 <img align="right" src="images/2.gif" alt="Coder GIF" width="500" height="350">
 
-<a href="https://www.instagram.com/scarlett_hong1012/" >
+<a href="https://www.instagram.com/scarlett_hhong/" >
   <img align="center" alt="Scarlett Hong's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
 <a href="https://github.com/honghong1012/honghong1012.github.io/blob/master/images/qrcode.jpeg?raw=true">

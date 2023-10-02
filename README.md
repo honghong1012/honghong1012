@@ -16,7 +16,7 @@
 - 📧 Email:[sc.hong1999@gmail.com](mailto:sc.hong1999@gmail.com)
 - 🗺 Portfolio: [Scarlett Hong's Portfolio](https://www.scarletthong.top/)
 - 🌱 Graduated from Northwestern University
-- 💼 Incoming software engineer at DocuSign!
+- 💼 Software engineer at DocuSign!
 - 💬 Ask me about anything, I am happy to help!
 
 ## 🔧Technologies & Tools
@@ -35,7 +35,7 @@
 
 ## 💜 My Passions
 - 🖥 Front End & Full Stack Development
-- 👩🏻‍💻 Python, JavaScript, React, Node.js...
+- 👩🏻‍💻 Python, Typescript, React, Node.js...
 - 🏃🏻‍♀️ Sports & 🏝 Nature
 
 ## A little more about me...

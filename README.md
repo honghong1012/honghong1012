@@ -16,7 +16,7 @@
 - 📧 Email:[sc.hong1999@gmail.com](mailto:sc.hong1999@gmail.com)
 - 🗺 Portfolio: [Scarlett Hong's Portfolio](https://www.scarletthong.top/)
 - 🌱 Graduated from Northwestern University
-- 💼 Software engineer at DocuSign!
+- 💼 Software engineer at Snap!
 - 💬 Ask me about anything, I am happy to help!
 
 ## 🔧Technologies & Tools
